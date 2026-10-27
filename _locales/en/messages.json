@@ -1,0 +1,5 @@
+{
+  "extensionName": { "message": "Download Source Router" },
+  "extensionDescription": { "message": "Save files to subfolders of Chrome's default download directory based on the source page hostname." },
+  "actionTitle": { "message": "Configure download source paths" }
+}

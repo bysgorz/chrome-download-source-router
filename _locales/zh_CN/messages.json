@@ -1,0 +1,5 @@
+{
+  "extensionName": { "message": "按来源网页归档下载" },
+  "extensionDescription": { "message": "根据发起下载网页的域名，将文件保存到 Chrome 默认下载目录下的指定子目录。" },
+  "actionTitle": { "message": "配置下载来源路径" }
+}
